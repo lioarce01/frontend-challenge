@@ -1,4 +1,4 @@
-import sendIcon from "../assets/sendIcon.svg";
+import sendIcon from "/src/assets/sendIcon.svg";
 
 import Footer from "./Footer";
 import Form from "./Form/Form";
