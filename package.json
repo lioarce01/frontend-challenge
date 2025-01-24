@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lioarce01.github.io/frontend_challenge/",
+  "homepage": "https://lioarce01.github.io/frontend-challenge/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
